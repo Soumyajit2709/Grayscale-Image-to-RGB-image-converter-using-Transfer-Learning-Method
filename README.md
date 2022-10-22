@@ -14,9 +14,11 @@
 ![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/images/VGG16%20Updated%20Model.png)
 
 ##### Test Images
-![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test1.jpg)
-![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test2.jpg)
-![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test3.jfif)
+<p align="center">
+  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test1.jpg)" height="256" width="256" alt="accessibility text">
+  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test2.jpg)" alt="accessibility text">
+  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test3.jfif)" alt="accessibility text">
+</p>
 
 ##### Output Images
 ![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/result1.jpg)
