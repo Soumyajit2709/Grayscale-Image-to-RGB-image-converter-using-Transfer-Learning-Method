@@ -21,6 +21,8 @@
 </p>
 
 ##### Output Images
-![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/result1.jpg)
-![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/result2.png)
-![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/result3.png)
+<p align="center">
+  <img src="https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/result1.jpg" height="256" width="256" >
+  <img src="https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/result2.png" height="256" width="256">
+  <img src="https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/result3.png" height="256" width="256">
+</p>
