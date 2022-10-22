@@ -8,7 +8,7 @@
 ###### Grayscale images consist with 3 layers (LAB)
 ![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/images/Problem%202.png)
 
-####### Two type of Images almost built with different layers. Right!!
+###### Two type of Images almost built with different layers. Right!!
 
 ###### Our proposed VGG-16 model after fine-tuning
 ![alt text](https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/images/VGG16%20Updated%20Model.png)
