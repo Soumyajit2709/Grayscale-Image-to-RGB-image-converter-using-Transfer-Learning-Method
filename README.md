@@ -15,9 +15,9 @@
 
 ##### Test Images
 <p align="center">
-  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test1.jpg)" height="256" width="256" alt="accessibility text">
-  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test2.jpg)" alt="accessibility text">
-  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test3.jfif)" alt="accessibility text">
+  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test1.jpg)" height="256" width="256" >
+  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test2.jpg)" >
+  <img src="(https://github.com/Soumyajit2709/Grayscale-Image-to-RGB-image-converter-using-Transfer-Learning-Method/blob/main/Results/test3.jfif)">
 </p>
 
 ##### Output Images
